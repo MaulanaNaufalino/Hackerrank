@@ -1,3 +1,3 @@
 select name
 from Employee
-order by name asc
+order by name asc;
